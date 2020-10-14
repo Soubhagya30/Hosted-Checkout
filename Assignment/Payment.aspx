@@ -8,7 +8,7 @@
 </head>
 <body>
     <form method="POST" action="https://api.razorpay.com/v1/checkout/embedded">
-        <input type="hidden" name="key_id" value="rzp_test_2pjQoIV7c1RY6C"> 
+        <input type="hidden" name="key_id" value="rzp_test_xxxxxxxxxx"> 
         <input type="hidden" name="order_id" value="<%=orderId%>">
         <input type="hidden" name="name" value="Acme Corp">
         <input type="hidden" name="description" value="A Wild Sheep Chase">
