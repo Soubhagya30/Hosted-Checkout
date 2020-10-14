@@ -18,7 +18,7 @@
         <input type="hidden" name="prefill[email]" value="gaurav.kumar@example.com">
         <input type="hidden" name="notes[shipping address]" value="L-16, The Business Centre, 61 Wellfield Road, New Delhi - 110001">
         <input type="hidden" name="callback_url" value="http://127.0.0.1:8080/Checkout">
-        <!--input type="hidden" name="cancel_url" value="https://example.com/payment-cancel"-->
+        <input type="hidden" name="cancel_url" value="https://example.com/payment-cancel">
         <button>Pay Now</button>
     </form>
 </body>
